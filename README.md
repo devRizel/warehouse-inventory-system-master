@@ -19,7 +19,7 @@ If you find any bug, and a fix for that bug, please leave a comment on the githu
 ****
 
 
-1. Download the latest version with git (`git clone https://github.com/siamon123/warehouse-inventory-system.git`)
+1. Download the latest version with git (`git clone https://github.com/devrizel/warehouse-inventory-system.git`)
 
 2. Import/load oswa_inv.sql into your mysql database. This should set up the basic structure of the database system.
 
